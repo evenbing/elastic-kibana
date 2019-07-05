@@ -1,0 +1,10 @@
+C:\elastic-kibana\src\bin\Debug\netcoreapp2.0\elastic-kibana.deps.json
+C:\elastic-kibana\src\bin\Debug\netcoreapp2.0\elastic-kibana.runtimeconfig.json
+C:\elastic-kibana\src\bin\Debug\netcoreapp2.0\elastic-kibana.runtimeconfig.dev.json
+c:\elastic-kibana\src\bin\Debug\netcoreapp2.0\elastic-kibana.dll
+c:\elastic-kibana\src\bin\Debug\netcoreapp2.0\elastic-kibana.pdb
+c:\elastic-kibana\src\obj\Debug\netcoreapp2.0\elastic-kibana.csproj.CoreCompileInputs.cache
+c:\elastic-kibana\src\obj\Debug\netcoreapp2.0\elastic-kibana.AssemblyInfoInputs.cache
+c:\elastic-kibana\src\obj\Debug\netcoreapp2.0\elastic-kibana.AssemblyInfo.cs
+c:\elastic-kibana\src\obj\Debug\netcoreapp2.0\elastic-kibana.dll
+c:\elastic-kibana\src\obj\Debug\netcoreapp2.0\elastic-kibana.pdb
